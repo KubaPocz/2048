@@ -5,7 +5,7 @@ The document outlines the architecture of the game system, focusing on the organ
 ---
 
 #### **Overall architecture Diagram**
-![image info](./Images/Architecture.png)
+![image info](./Images/DataFlowDiagram.png)
 
 DataFlow
 
